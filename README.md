@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsncnylmz&show_icons=true&locale=en" alt="hsncnylmz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsncnylmz&" alt="hsncnylmz" /></p>
+
+![snake gif](https://github.com/hsncnylmz/hsncnylmz/blob/output/github-contribution-grid-snake.gif)
