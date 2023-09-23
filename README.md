@@ -1,4 +1,10 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <h1 align="center">Hi 👋, I'm Hasan Yılmaz</h1>
 <h3 align="center">I am a Front-End Developer in Turkey</h3>
 
@@ -22,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsncnylmz&show_icons=true&locale=en" alt="hsncnylmz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsncnylmz&" alt="hsncnylmz" /></p>
-
-uses: hsncnylmz/.github/workflows/svg-only@v3
